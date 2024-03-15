@@ -1,0 +1,14 @@
+body {
+	font-family: 'Libre Baskerville', serif;
+}
+
+:root {
+	max-width: 760px;
+	margin-top: 10rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+abbr {
+	text-decoration-style: dashed;
+}
