@@ -2,9 +2,14 @@ body {
 	font-family: 'Libre Baskerville', serif;
 }
 
+@media only screen and (min-width: 768px) {
+	:root {
+		margin-top: 10rem;
+	}
+}
+
 :root {
 	max-width: 760px;
-	margin-top: 10rem;
 	margin-left: auto;
 	margin-right: auto;
 }

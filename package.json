@@ -7,7 +7,8 @@
 		"start": "parcel",
 		"dev": "parcel",
 		"build": "parcel build",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+		"clean": "pnpx rimraf .parcel-cache dist"
     },
     "author": "soopyc",
     "license": "CC0-1.0",
